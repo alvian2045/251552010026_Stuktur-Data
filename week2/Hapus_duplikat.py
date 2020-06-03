@@ -6,3 +6,4 @@ for item in data:
         hasil.append(item)
 
     print("List tanpa duplikat:",hasil)
+    #alvian
